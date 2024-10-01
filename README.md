@@ -17,5 +17,5 @@ Key layers:
 - Conv2D layers for feature extraction.
 - MaxPooling2D layers for down-sampling.
 - Flatten and Dense layers for classification.
-- 
+
 The final output layer uses softmax activation to predict one of the 10 classes.
